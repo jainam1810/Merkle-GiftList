@@ -1,6 +1,6 @@
 # 🎁 Merkle Tree GiftList
 
-This project is a fun and educational application to understand how **Merkle Trees** work and how they are used in **blockchain** to efficiently verify data without storing it all on-chain.
+This project is an educational application to understand how **Merkle Trees** work and how they are used in **blockchain** to efficiently verify data without storing it all on-chain.
 
 ## 📚 Purpose of the Project
 
