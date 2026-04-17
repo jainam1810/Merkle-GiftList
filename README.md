@@ -13,7 +13,7 @@ As a student exploring **blockchain technology**, this project helped me underst
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. A list of "nice" people (`niceList.json`) is used to build a Merkle Tree.
 2. The Merkle Root is stored on the server (like it would be on a blockchain).
