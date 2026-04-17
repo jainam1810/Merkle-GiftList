@@ -2,7 +2,7 @@
 
 This project is an educational application to understand how **Merkle Trees** work and how they are used in **blockchain** to efficiently verify data without storing it all on-chain.
 
-## 📚 Purpose of the Project
+## Purpose of the Project
 
 As a student exploring **blockchain technology**, this project helped me understand:
 
