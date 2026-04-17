@@ -23,7 +23,7 @@ As a student exploring **blockchain technology**, this project helped me underst
 
 ---
 
-## 🧱 Technologies Used
+## Technologies Used
 
 - **Node.js**
 - **Express.js**
@@ -33,7 +33,7 @@ As a student exploring **blockchain technology**, this project helped me underst
 
 ---
 
-## 🚀 How to Run It Locally
+## How to Run It Locally
 
 1. **Clone the project:**
    ```bash
